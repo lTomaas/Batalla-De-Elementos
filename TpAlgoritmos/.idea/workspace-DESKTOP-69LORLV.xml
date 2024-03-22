@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TpAlgoritmos" targetName="TpAlgoritmos" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3f1b977-5afb-47b9-9324-2ede142e8f79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1kkTdiWJ5sycl3AApXx3KawZKgC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="cassandra" />
+    <property name="OCFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TpAlgoritmos" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TpAlgoritmos" TARGET_NAME="TpAlgoritmos" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TpAlgoritmos" RUN_TARGET_NAME="TpAlgoritmos">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3f1b977-5afb-47b9-9324-2ede142e8f79" name="Default Changelist" comment="" />
+      <created>1606243683568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606243683568</updated>
+      <workItem from="1606243689177" duration="1165000" />
+      <workItem from="1606263979330" duration="1865000" />
+      <workItem from="1606528402078" duration="1487000" />
+      <workItem from="1606838464689" duration="2552000" />
+      <workItem from="1606996409967" duration="2058000" />
+      <workItem from="1607381096635" duration="38000" />
+      <workItem from="1607469687222" duration="4068000" />
+      <workItem from="1607475805447" duration="3338000" />
+      <workItem from="1607504030807" duration="1621000" />
+      <workItem from="1607507220928" duration="416000" />
+      <workItem from="1607518704926" duration="399000" />
+      <workItem from="1607618069350" duration="94000" />
+      <workItem from="1608222443485" duration="639000" />
+      <workItem from="1608827952586" duration="34000" />
+      <workItem from="1608836097239" duration="2778000" />
+      <workItem from="1608908382997" duration="276000" />
+      <workItem from="1608943633710" duration="420000" />
+      <workItem from="1610424622691" duration="4584000" />
+      <workItem from="1610454898831" duration="16204000" />
+      <workItem from="1610485871182" duration="6180000" />
+      <workItem from="1610512485821" duration="3968000" />
+      <workItem from="1610516973458" duration="282000" />
+      <workItem from="1610885112776" duration="579000" />
+      <workItem from="1610914669603" duration="9286000" />
+      <workItem from="1610969650696" duration="1443000" />
+      <workItem from="1610987157076" duration="1512000" />
+      <workItem from="1611076247813" duration="5970000" />
+      <workItem from="1611086909936" duration="6282000" />
+      <workItem from="1611105489293" duration="8970000" />
+      <workItem from="1611151933292" duration="3077000" />
+      <workItem from="1611182934962" duration="5010000" />
+      <workItem from="1611953761611" duration="3223000" />
+      <workItem from="1611962923493" duration="1632000" />
+      <workItem from="1612299020810" duration="332000" />
+      <workItem from="1612299485100" duration="1525000" />
+      <workItem from="1612507873817" duration="12000" />
+      <workItem from="1612923269504" duration="2669000" />
+      <workItem from="1613052585861" duration="15877000" />
+      <workItem from="1613088471055" duration="19061000" />
+      <workItem from="1613118427777" duration="6333000" />
+      <workItem from="1613154673209" duration="17593000" />
+      <workItem from="1613179376255" duration="5859000" />
+      <workItem from="1613193282131" duration="710000" />
+      <workItem from="1613212785658" duration="623000" />
+      <workItem from="1613238504818" duration="3785000" />
+      <workItem from="1613274162653" duration="7312000" />
+      <workItem from="1613299000974" duration="8209000" />
+      <workItem from="1613343700695" duration="14883000" />
+      <workItem from="1613367954040" duration="1882000" />
+      <workItem from="1613382811373" duration="5761000" />
+      <workItem from="1613390528000" duration="12926000" />
+      <workItem from="1613432983712" duration="10852000" />
+      <workItem from="1613470514246" duration="8800000" />
+      <workItem from="1613482165555" duration="4137000" />
+      <workItem from="1613486466159" duration="3019000" />
+      <workItem from="1613538320098" duration="43000" />
+      <workItem from="1613560373413" duration="654000" />
+      <workItem from="1613641820793" duration="1393000" />
+      <workItem from="1613899026355" duration="71000" />
+      <workItem from="1613986373870" duration="6319000" />
+      <workItem from="1614008973962" duration="9914000" />
+      <workItem from="1614095725182" duration="2000000" />
+      <workItem from="1614162964876" duration="583000" />
+      <workItem from="1614175714582" duration="601000" />
+      <workItem from="1614205227610" duration="4074000" />
+      <workItem from="1614270525317" duration="585000" />
+      <workItem from="1614363896402" duration="350000" />
+      <workItem from="1626067077254" duration="94000" />
+      <workItem from="1626134768214" duration="695000" />
+      <workItem from="1626970465729" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1557" height="470" key="GridCell.Tab.0.bottom" timestamp="1626135573218">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="470" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1626135573218" />
+    <state width="1557" height="470" key="GridCell.Tab.0.center" timestamp="1626135573217">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="470" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1626135573217" />
+    <state width="1557" height="470" key="GridCell.Tab.0.left" timestamp="1626135573217">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="470" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1626135573217" />
+    <state width="1557" height="470" key="GridCell.Tab.0.right" timestamp="1626135573218">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="470" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1626135573218" />
+  </component>
+</project>

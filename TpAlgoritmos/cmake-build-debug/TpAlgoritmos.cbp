@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TpAlgoritmos"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TpAlgoritmos">
+				<Option output="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/TpAlgoritmos.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 TpAlgoritmos"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TpAlgoritmos/fast">
+				<Option output="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/TpAlgoritmos.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 TpAlgoritmos/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/ABB.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/ABB.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/ABBNodo.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/ABBNodo.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casillero.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casillero.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroAmarillo.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroAmarillo.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroAzul.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroAzul.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroGris.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroGris.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroRojo.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroRojo.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroVerde.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroVerde.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroVioleta.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/casilleroVioleta.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/grafo.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/grafo.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/main.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje_agua.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje_agua.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje_aire.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje_aire.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje_fuego.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje_fuego.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje_tierra.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/personaje_tierra.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/utiles.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/utiles.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/vertice.cpp">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/vertice.h">
+			<Option target="TpAlgoritmos"/>
+		</Unit>
+		<Unit filename="C:/Users/tomas/OneDrive/Escritorio/MATERIAS/tp/TpAlgoritmos/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
